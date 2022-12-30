@@ -1,0 +1,9 @@
+site_name: PyPSDR
+
+plugins:
+  - mkdocstrings
+
+theme: readthedocs
+
+site_url: ""
+use_directory_urls: false
